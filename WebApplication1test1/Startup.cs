@@ -17,7 +17,7 @@ namespace WebApplication1test1
     {
         public Startup(IConfiguration configuration)
         {
-            //change new
+            //change new 1
             Configuration = configuration;
         }
 
